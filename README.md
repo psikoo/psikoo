@@ -2,7 +2,7 @@
 <h2 >Hello there, I'm &ltpsikoo/&gt! <img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/partyblobcat.gif" width="20"></h2>
 </div>
 <details>
-<summary><code>[psikoo@Github ~]# neofetch                                                                                        </code></summary>
+<summary><code>[psikoo@Github ~]# neofetch                                                                                          </code></summary>
 <div>
 <pre>
 PPPPPPPPPPPPPPPPP                     iiii    ┌──psikoo@github──────────────────────────────────────────────────────┐
