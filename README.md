@@ -1,5 +1,5 @@
 <div align="center">
-<h2 >Hello there, I'm &ltpsikoo/&gt! <img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/partyblobcat.gif" width="20"></h2>
+<h2>Hello there, I'm &ltpsikoo/&gt! <img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/partyblobcat.gif" width="20"></h2>
 </div>
 <details>
 <summary><code>[psikoo@Github ~]# neofetch                                                                                          </code></summary>
@@ -27,5 +27,7 @@ PPPPPPPPPP           sssssssssss    iiiiiiii     ├──> 🎥GPU > GeForce RT
 </pre>
 </div>
 </details>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=qkmmn5sweydaujo8ret0gobti&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
+<div align="center">
+<h3>🎧 Now playing</h3>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qkmmn5sweydaujo8ret0gobti&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="spotify stats"> 
+</div>
