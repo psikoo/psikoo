@@ -6,7 +6,7 @@
 <div>
 <pre>
 mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
-PPPPPPPPPPPPPPPPP                     iiii    ┌──psikoo@github────────────────────────────────────────────────────────────┐
+PPPPPPPPPPPPPPPPP                     iiii    ┌──psikoo@github────────────────────────────────────────────────────────┐
 P::::::::::::::::P                   i::::i   ├──┰👤About me
 P::::::PPPPPP:::::P                   iiii    │  ├──>🖊️Name > psikoo || psi
 PP:::::P     P:::::P                          │  ├──>👫Pronouns > he || she || it
