@@ -29,5 +29,5 @@ PPPPPPPPPP           sssssssssss    iiiiiiii     ├──> 🎥GPU > GeForce RT
 </details>
 <div align="center">
 <h3>🎧 Now playing</h3>
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qkmmn5sweydaujo8ret0gobti&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="spotify stats"> 
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qkmmn5sweydaujo8ret0gobti&cover_image=true&theme=default&show_offline=false&background_color=050709&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="spotify stats"> 
 </div>
