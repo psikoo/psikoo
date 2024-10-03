@@ -34,8 +34,8 @@ PPPPPPPPPP           sssssssssss    iiiiiiii     ├──> 🎥GPU > GeForce RT
 <div>
 <details>
 <summary><h3>Github Stats · <img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/stubparrot.gif" width="20"></h3></summary>
-<img src="https://github-readme-stats.vercel.app/api?username=psikoo&hide_title=true&show_icons=true&text_color=ffffff&icon_color=ffffff&border_color=0D1117&bg_color=050709&border_radius=10" alt="github stats" height="195"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psikoo&layout=donut&title_color=ffffff&text_color=ffffff&border_color=0D1117&bg_color=050709&border_radius=10" alt="code stats" height="195"/>
+<img src="https://github-readme-stats.vercel.app/api?username=psikoo&hide_title=true&show_icons=true&text_color=ffffff&icon_color=ffffff&border_color=0D1117&bg_color=050709&border_radius=10" alt="github stats" height="180"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psikoo&layout=donut&title_color=ffffff&text_color=ffffff&border_color=0D1117&bg_color=050709&border_radius=10" alt="code stats" height="180"/>
 </details>
 </div>
 <div>
