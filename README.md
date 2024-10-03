@@ -27,6 +27,10 @@ PPPPPPPPPP           sssssssssss    iiiiiiii     ├──> 🎥GPU > GeForce RT
 </pre>
 </div>
 </details>
+
+<div>
+<details open>
+<summary><h3>Cards · <img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/witnessprotectionparrot.gif" width="20"></h3></summary>
 <div>
 <details open>
 <summary><h4>Socials</h4></summary>
@@ -54,6 +58,8 @@ PPPPPPPPPP           sssssssssss    iiiiiiii     ├──> 🎥GPU > GeForce RT
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+</details>
+</div>
 </details>
 </div>
 </details>
