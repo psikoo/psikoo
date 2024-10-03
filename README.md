@@ -1,5 +1,5 @@
 <div align="center">
-<h2>About me · <img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/partyblobcat.gif" width="20"></h2>
+<h2>About me · <a href="https://cultofthepartyparrot.com/"><img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/partyblobcat.gif" width="20"></a></h2>
 </div>
 <details>
 <summary><code>[psikoo@Github ~]# neofetch                                                                                          </code></summary>
@@ -30,16 +30,16 @@ PPPPPPPPPP           sssssssssss    iiiiiiii     ├──> 🎥GPU > GeForce RT
 
 <div>
 <details open>
-<summary><h3>Cards · <img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/witnessprotectionparrot.gif" width="20"></h3></summary>
+<summary><h3>Cards · <a href="https://cultofthepartyparrot.com/"><img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/witnessprotectionparrot.gif" width="20"></a></h3></summary>
 <div>
 <details open>
 <summary><h4>Socials</h4></summary>
-<img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white">
-<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
-<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
-<img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white">
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://linktr.ee/psikoo"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></a>
+<a href="https://bit.ly/discordUSR"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://bit.ly/spotifyUSR"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://bit.ly/steamUSR"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
+<a href="https://www.patreon.com/psikoo"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
+<a href="https://github.com/psikoo"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 </details>
 <details open>
 <summary><h4>Tools/OS</h4></summary>
@@ -66,17 +66,17 @@ PPPPPPPPPP           sssssssssss    iiiiiiii     ├──> 🎥GPU > GeForce RT
 
 <div>
 <details>
-<summary><h3>Other · <img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/nyanparrot.gif" width="20"></h3></summary>
+<summary><h3>Other · <a href="https://cultofthepartyparrot.com/"><img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/nyanparrot.gif" width="20"></a></h3></summary>
 <div>
 <details>
-<summary><h4>Github Stats <img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/stubparrot.gif" width="20"></h4></summary>
+<summary><h4>Github Stats <a href="https://cultofthepartyparrot.com/"><img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/stubparrot.gif" width="20"></a></h4></summary>
 <img src="https://github-readme-stats.vercel.app/api?username=psikoo&hide_title=true&show_icons=true&text_color=ffffff&icon_color=ffffff&border_color=0D1117&bg_color=050709&border_radius=10" alt="github stats" height="180"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psikoo&layout=donut&title_color=ffffff&text_color=ffffff&border_color=0D1117&bg_color=050709&border_radius=10" alt="code stats" height="180"/>
 </details>
 </div>
 <div>
 <details>
-<summary><h4>Now playing <img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/discoduck.gif" width="20"></h4></summary>
+<summary><h4>Now playing <a href="https://cultofthepartyparrot.com/"><img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/discoduck.gif" width="20"></a></h4></summary>
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qkmmn5sweydaujo8ret0gobti&cover_image=true&theme=natemoo-re&show_offline=false&background_color=050709&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="spotify stats"> 
 </details>
 </div>
