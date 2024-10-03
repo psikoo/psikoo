@@ -30,7 +30,7 @@ PPPPPPPPPP           sssssssssss    iiiiiiii     ├──> 🎥GPU > GeForce RT
 
 <div>
 <details>
-<summary><h3>Other · <img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/stubparrot.gif" width="20"></h3></summary>
+<summary><h3>Other · <img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/nyanparrot.gif" width="20"></h3></summary>
 <div align="center">
 <details>
 <summary><h3>Github Stats · <img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/stubparrot.gif" width="20"></h3></summary>
