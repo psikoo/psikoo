@@ -31,6 +31,7 @@ PPPPPPPPPP           sssssssssss    iiiiiiii     ├──> 🎥GPU > GeForce RT
 <details open>
 <summary><h3>Github Stats <img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/stubparrot.gif" width="20"></h3></summary>
 <img src="https://github-readme-stats.vercel.app/api?username=psikoo&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=0D1117&bg_color=050709&border_radius=10" alt="spotify stats"> 
+<img scr="https://github-readme-stats.vercel.app/api/top-langs/?username=psikoo&layout=donut&title_color=ffffff&text_color=ffffff&border_color=0D1117&bg_color=050709&border_radius=10" alt="code stats">
 </details>
 </div>
 <div align="center">
