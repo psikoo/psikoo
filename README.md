@@ -1,5 +1,5 @@
 <div align="center">
-<h2>About me <img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/partyblobcat.gif" width="20"></h2>
+<h2>About me · <img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/partyblobcat.gif" width="20"></h2>
 </div>
 <details>
 <summary><code>[psikoo@Github ~]# neofetch                                                                                          </code></summary>
@@ -29,14 +29,14 @@ PPPPPPPPPP           sssssssssss    iiiiiiii     ├──> 🎥GPU > GeForce RT
 </details>
 <div align="center">
 <details open>
-<summary><h3>Github Stats <img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/stubparrot.gif" width="20"></h3></summary>
-<img src="https://github-readme-stats.vercel.app/api?username=psikoo&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=0D1117&bg_color=050709&border_radius=10" alt="spotify stats"> 
-<img scr="https://github-readme-stats.vercel.app/api/top-langs/?username=psikoo&layout=donut&title_color=ffffff&text_color=ffffff&border_color=0D1117&bg_color=050709&border_radius=10" alt="code stats">
+<summary><h3>Github Stats · <img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/stubparrot.gif" width="20"></h3></summary>
+<img src="https://github-readme-stats.vercel.app/api?username=psikoo&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=0D1117&bg_color=050709&border_radius=10" alt="github stats"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psikoo&layout=donut&title_color=ffffff&text_color=ffffff&border_color=0D1117&bg_color=050709&border_radius=10" alt="code stats" height="195"/>
 </details>
 </div>
 <div align="center">
 <details>
-<summary><h3>Now playing <img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/discoduck.gif" width="20"></h3></summary>
+<summary><h3>Now playing · <img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/discoduck.gif" width="20"></h3></summary>
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qkmmn5sweydaujo8ret0gobti&cover_image=true&theme=default&show_offline=false&background_color=050709&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="spotify stats"> 
 </details>
 </div>
