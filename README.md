@@ -12,7 +12,7 @@ PP:::::P     P:::::P                             ├──>👫Pronouns > he || 
   P::::P     P:::::P   ssssssssss   iiiiiii      ├──>📅Birth > 3rd oct. 2005 (19)
   P::::P     P:::::P ss::::::::::s  i:::::i      ├──>🌍Residence > europe/spain/madrid
   P::::PPPPPP:::::Pss:::::::::::::s  i::::i      ├──>📖Language > en_US && es_ES
-  P:::::::::::::PP s::::::ssss:::::s i::::i      └──>👷Ocupation > student
+  P:::::::::::::PP s::::::ssss:::::s i::::i      └──>👷Occupation > student
   P::::PPPPPPPPP    s:::::s  ssssss  i::::i    
   P::::P              s::::::s       i::::i      ┌🌐Socials
   P::::P                 s::::::s    i::::i      ├──>💻Linktre > linktr.ee/psikoo
