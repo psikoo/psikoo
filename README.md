@@ -2,7 +2,7 @@
 <h2>About me · <a href="https://cultofthepartyparrot.com/"><img src="https://github.com/psikoo/psikoo/blob/main/assets/gif/partyblobcat.gif" width="20"></a></h2>
 </div>
 <details>
-<summary><code>[psikoo@Github ~]# neofetch                                                                                          </code></summary>
+<summary><code>[psikoo@github ~]# neofetch                                                                                          </code></summary>
 <div>
 <pre>
 PPPPPPPPPPPPPPPPP                     iiii    ┌──psikoo@github──────────────────────────────────────────────────────┐
