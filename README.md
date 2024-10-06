@@ -15,8 +15,8 @@ PP:::::P     P:::::P                             ├──>👫Pronouns > he || 
   P:::::::::::::PP s::::::ssss:::::s i::::i      └──>👷Occupation > student
   P::::PPPPPPPPP    s:::::s  ssssss  i::::i    
   P::::P              s::::::s       i::::i      ┌🌐Socials
-  P::::P                 s::::::s    i::::i      ├──>💻Linktre > linktr.ee/psikoo
-  P::::P           ssssss   s:::::s  i::::i      └──>💻Discord > @psikoo
+  P::::P                 s::::::s    i::::i      ├──>🌲Linktree > linktr.ee/psikoo
+  P::::P           ssssss   s:::::s  i::::i      └──>👾Discord > @psikoo
 PP::::::PP         s:::::ssss::::::si::::::i   
 P::::::::P         s::::::::::::::s i::::::i     ┌🔍System information
 P::::::::P          s:::::::::::ss  i::::::i     ├──> 💻OS > Tiny10 || Arch
