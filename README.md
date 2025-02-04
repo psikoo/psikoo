@@ -5,23 +5,23 @@
 <summary><pre>[psikoo@github ~]# neofetch</pre></summary>
 <div>
 <pre>
-PPPPPPPPPPPPPPPPP                     iiii    ┌──psikoo@github──────────────────────────────────────────────────────┐
-P::::::::::::::::P                   i::::i      ┌👤About me
-P::::::PPPPPP:::::P                   iiii       ├──>🖊️Name > psikoo || psi
-PP:::::P     P:::::P                             ├──>👫Pronouns > he || she || it
-  P::::P     P:::::P   ssssssssss   iiiiiii      ├──>📅Birth > 3rd oct. 2005 (19)
-  P::::P     P:::::P ss::::::::::s  i:::::i      ├──>🌍Residence > europe/spain/madrid
-  P::::PPPPPP:::::Pss:::::::::::::s  i::::i      ├──>📖Language > en_US && es_ES
-  P:::::::::::::PP s::::::ssss:::::s i::::i      └──>👷Occupation > student
-  P::::PPPPPPPPP    s:::::s  ssssss  i::::i    
-  P::::P              s::::::s       i::::i      ┌🌐Socials
-  P::::P                 s::::::s    i::::i      ├──>🌲Linktree > linktr.ee/psikoo
-  P::::P           ssssss   s:::::s  i::::i      └──>👾Discord > @psikoo
-PP::::::PP         s:::::ssss::::::si::::::i   
-P::::::::P         s::::::::::::::s i::::::i     ┌🔍System information
-P::::::::P          s:::::::::::ss  i::::::i     ├──>💻OS > Tiny10 || Arch
-PPPPPPPPPP           sssssssssss    iiiiiiii     ├──>🎥GPU > GeForce RTX 3080
-                                                 ├──>⚙️CPU > i9-10900KF @ 3.70GHz
+                                              ┌──psikoo@github──────────────────────────────────────────────────────┐
+PPPPPPPPPPPPPPPPP                     iiii       ┌👤About me
+P::::::::::::::::P                   i::::i      ├──>🖊️Name > psikoo || psi
+P::::::PPPPPP:::::P                   iiii       ├──>👫Pronouns > he || she || it
+PP:::::P     P:::::P                             ├──>📅Birth > 3rd oct. 2005 (19)
+  P::::P     P:::::P   ssssssssss   iiiiiii      ├──>🌍Residence > europe/spain/madrid
+  P::::P     P:::::P ss::::::::::s  i:::::i      ├──>📖Language > en_US && es_ES
+  P::::PPPPPP:::::Pss:::::::::::::s  i::::i      └──>👷Occupation > student
+  P:::::::::::::PP s::::::ssss:::::s i::::i    
+  P::::PPPPPPPPP    s:::::s  ssssss  i::::i      ┌🌐Socials
+  P::::P              s::::::s       i::::i      ├──>🌲Linktree > linktr.ee/psikoo
+  P::::P                 s::::::s    i::::i      └──>👾Discord > @psikoo
+  P::::P           ssssss   s:::::s  i::::i   
+PP::::::PP         s:::::ssss::::::si::::::i     ┌🔍System information
+P::::::::P         s::::::::::::::s i::::::i     ├──>💻OS > Tiny10 || Arch
+P::::::::P          s:::::::::::ss  i::::::i     ├──>🎥GPU > GeForce RTX 3080
+PPPPPPPPPP           sssssssssss    iiiiiiii     ├──>⚙️CPU > i9-10900KF @ 3.70GHz
                                                  └──>💾RAM > 60GiB DDR4
                                               └─────────────────────────────────────────────────────────────────────┘
 </pre>
